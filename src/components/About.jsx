@@ -9,10 +9,10 @@ const About = () => {
                 <p className='text-5xl font-bold inline border-b-4 border-gray-500'>About</p>
             </div>
             <p className='text-xl mt-16'>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores porro officia non minus repellat ipsam velit nulla reprehenderit iure dolore deleniti quidem esse hic eum qui eaque facilis labore, consectetur expedita quaerat nobis nostrum alias! Quibusdam voluptate laborum doloremque? Iusto doloribus, voluptatem libero quis laudantium officia illum quo debitis blanditiis.
+            I've successfully earned a Computer Science master's from Central University of Kerala, equipping me with HTML, CSS, JavaScript, and React skills for dynamic web development. My talents extend to design, using Photoshop for diverse visuals like brochures, logos, posters, and templates, enriching my work.
             </p>
             <br />
-            <p className='text-xl'>Lorem ipsum, dolor sit amet consectetur adipisicing elit. A veritatis voluptas, harum sed sint inventore officiis error, ipsa ut optio corrupti placeat quibusdam sunt voluptatum reiciendis veniam temporibus accusamus. Nisi iusto non sed nemo, ratione doloribus libero sunt explicabo sapiente expedita dolorem magni, fugiat atque, accusantium nesciunt consequuntur rerum quia.</p>
+            <p className='text-xl'>Active in communities, I contribute to knowledge exchanges, fostering collaboration and insightful dialogues. A standout project with Kerala Startup Mission (KSUM) saw me designing badges, ID cards, posters, and banners, showcasing my tech-design fusion. Eager to merge skills, I anticipate impactful contributions in technology and design, bridging innovation and aesthetics.</p>
         </div>
 
     </div>

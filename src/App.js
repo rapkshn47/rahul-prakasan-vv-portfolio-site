@@ -13,7 +13,7 @@ function App() {
       <NavBar/>
       <Home />
       <About/>
-      <Porfolio/>
+      <Porfolio className="mt-4"/>
       <Experience/>
       <Contact/>
       <SocialLinks />
