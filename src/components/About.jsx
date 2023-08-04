@@ -9,10 +9,12 @@ const About = () => {
                 <p className='text-5xl font-bold inline border-b-4 border-gray-500'>About</p>
             </div>
             <p className='text-xl mt-16'>
-            I've successfully earned a Computer Science master's from Central University of Kerala, equipping me with HTML, CSS, JavaScript, and React skills for dynamic web development. My talents extend to design, using Photoshop for diverse visuals like brochures, logos, posters, and templates, enriching my work.
+            I hold a Master's degree in Computer Science from Central University of Kerala, equipping me with strong skills in HTML, CSS, JavaScript, and React for building dynamic websites. I'm also a proficient designer, using Photoshop to create visuals like brochures, logos, posters, and templates, which adds a creative touch to my work.
             </p>
             <br />
-            <p className='text-xl'>Active in communities, I contribute to knowledge exchanges, fostering collaboration and insightful dialogues. A standout project with Kerala Startup Mission (KSUM) saw me designing badges, ID cards, posters, and banners, showcasing my tech-design fusion. Eager to merge skills, I anticipate impactful contributions in technology and design, bridging innovation and aesthetics.</p>
+            <p className='text-xl'>I'm an active contributor in various communities, fostering collaboration and insightful discussions. Notably, I collaborated with Kerala Startup Mission (KSUM) on a project, designing badges, ID cards, posters, and banners that beautifully blend technology and design.</p>
+            <br />
+            <p className='text-xl'>What sets me apart is my genuine passion for both designing and coding. This makes web development the perfect fit for me, allowing me to merge innovation and aesthetics seamlessly. It's not just a job; it's a fulfilling way to bring my creative and technical talents together.</p>
         </div>
 
     </div>
