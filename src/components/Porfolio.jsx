@@ -1,7 +1,7 @@
 import React from 'react'
 
 import bmiCalculator from '../assets/portfolio/bmiCalculator.jpg'
-import installNode from '../assets/portfolio/installNode.jpg'
+import socialMediaSite from '../assets/portfolio/socialMediaSite.jpg'
 import navbar from '../assets/portfolio/navbar.jpg'
 import reactParallax from '../assets/portfolio/reactParallax.jpg'
 import reactSmooth from '../assets/portfolio/reactSmooth.jpg'
@@ -17,8 +17,9 @@ const Porfolio = () => {
     },
     {
       id: 2,
-      src : reactParallax,
-      demoURL : ""
+      src : socialMediaSite,
+      demoURL : "https://main--rad-kangaroo-6d3b33.netlify.app/",
+      codeURL : "https://github.com/rapkshn47/Social-Media-Site"
     },
     {
       id: 3,
