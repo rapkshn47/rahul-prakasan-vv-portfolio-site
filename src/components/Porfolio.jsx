@@ -35,7 +35,7 @@ const Porfolio = () => {
     },
     {
       id: 5,
-      src : installNode,
+      src : reactParallax,
       demoURL : "",
       codeURL : ""
     },
