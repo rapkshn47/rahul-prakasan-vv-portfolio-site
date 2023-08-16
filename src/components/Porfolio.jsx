@@ -2,7 +2,7 @@ import React from 'react'
 
 import bmiCalculator from '../assets/portfolio/bmiCalculator.jpg'
 import socialMediaSite from '../assets/portfolio/socialMediaSite.jpg'
-import navbar from '../assets/portfolio/navbar.jpg'
+import videoChat from '../assets/portfolio/videoChat.jpg'
 import reactParallax from '../assets/portfolio/reactParallax.jpg'
 import reactSmooth from '../assets/portfolio/reactSmooth.jpg'
 import reactWeather from '../assets/portfolio/reactWeather.jpg'
@@ -23,9 +23,9 @@ const Porfolio = () => {
     },
     {
       id: 3,
-      src : navbar,
-      demoURL : "https://github.com",
-      codeURL : ""
+      src : videoChat,
+      demoURL : "https://video-chat-rapkshn.netlify.app/",
+      codeURL : "https://github.com/rapkshn47/Video-calling-application"
     },
     {
       id: 4,
